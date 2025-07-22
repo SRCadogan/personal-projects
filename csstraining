@@ -1,0 +1,22 @@
+* {font-family: sans-serif, Helvetica, sans-serif;margin-left: 10px;}
+.name {font-size: 30px;}
+.jobtitle {font-size: 18px; color: rgb(7, 170, 7);}
+.skills {margin-top: 30px; margin-bottom: 1px;font-size: 18px; color: rgb(7, 170, 7); }
+.techexp {margin-top:0px;}
+
+h1 {font-size: 20px;}
+.worknames {font-size: 18px;color: rgb(22, 143, 184);}
+
+h2 {font-size: 15px;}
+
+body {
+  border: 5px solid rgba(0, 0, 0, 0.778) ;
+  padding: 0;
+  height: 243vh;
+  box-sizing: border-box;
+  width: 130vh;
+  margin-top: 2%;
+  
+}
+.linkedin {width: 50px;}
+.sn {font-size: 18px; color: rgb(7, 170, 7);}
